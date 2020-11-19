@@ -1,0 +1,8 @@
+site_name: How-To Generator
+repo_url: https://github.com/sys-dev-me/how-to.git
+nav:
+ - 'docs/index.md'
+ - 'docs/about.md'
+theme:
+ name: mkdocs
+ include_sidebar: false
